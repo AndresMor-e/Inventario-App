@@ -1,0 +1,5 @@
+package com.example.actividad_inventario
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
